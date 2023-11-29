@@ -331,6 +331,4 @@ def banner():
                 pygame.quit()
                 running = False
 
-# testing
-
 banner()
